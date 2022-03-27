@@ -1,4 +1,5 @@
-import random 
+import random
+ 
 guesses = 1
 num = random.randint(0,100)
 
